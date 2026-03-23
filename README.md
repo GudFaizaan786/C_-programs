@@ -1,2 +1,2 @@
 # C_-programs
-My C all programs from basics to advance 
+My C programs all from basics to advance 
